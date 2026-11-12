@@ -18,7 +18,6 @@ Model and business assumptions: [MODEL_CARD.md](MODEL_CARD.md).
 Data provenance: [data/DATA_CARD.md](data/DATA_CARD.md).
 Local synthetic validation snapshot: [VALIDATION.md](VALIDATION.md).
 Portfolio narrative: [CASE_STUDY.md](CASE_STUDY.md).
-Vietnamese publication steps: [HUONG_DAN_DANG_DU_AN.md](HUONG_DAN_DANG_DU_AN.md).
 
 ## Workflow
 
